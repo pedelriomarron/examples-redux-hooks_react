@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/examples-redux-hooks_react/static/css/main.87f0540f.chunk.css",
-    "main.js": "/examples-redux-hooks_react/static/js/main.88a46309.chunk.js",
-    "main.js.map": "/examples-redux-hooks_react/static/js/main.88a46309.chunk.js.map",
+    "main.js": "/examples-redux-hooks_react/static/js/main.861814bd.chunk.js",
+    "main.js.map": "/examples-redux-hooks_react/static/js/main.861814bd.chunk.js.map",
     "runtime-main.js": "/examples-redux-hooks_react/static/js/runtime-main.e51cf55f.js",
     "runtime-main.js.map": "/examples-redux-hooks_react/static/js/runtime-main.e51cf55f.js.map",
-    "static/js/2.c8e580ed.chunk.js": "/examples-redux-hooks_react/static/js/2.c8e580ed.chunk.js",
-    "static/js/2.c8e580ed.chunk.js.map": "/examples-redux-hooks_react/static/js/2.c8e580ed.chunk.js.map",
+    "static/js/2.b390c530.chunk.js": "/examples-redux-hooks_react/static/js/2.b390c530.chunk.js",
+    "static/js/2.b390c530.chunk.js.map": "/examples-redux-hooks_react/static/js/2.b390c530.chunk.js.map",
     "index.html": "/examples-redux-hooks_react/index.html",
-    "precache-manifest.e7e63c31da18fecd1c1f3c86f8fe11cb.js": "/examples-redux-hooks_react/precache-manifest.e7e63c31da18fecd1c1f3c86f8fe11cb.js",
+    "precache-manifest.2fa42690b258d34f533b353a0fe19d7e.js": "/examples-redux-hooks_react/precache-manifest.2fa42690b258d34f533b353a0fe19d7e.js",
     "service-worker.js": "/examples-redux-hooks_react/service-worker.js",
     "static/css/main.87f0540f.chunk.css.map": "/examples-redux-hooks_react/static/css/main.87f0540f.chunk.css.map",
-    "static/js/2.c8e580ed.chunk.js.LICENSE.txt": "/examples-redux-hooks_react/static/js/2.c8e580ed.chunk.js.LICENSE.txt"
+    "static/js/2.b390c530.chunk.js.LICENSE.txt": "/examples-redux-hooks_react/static/js/2.b390c530.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e51cf55f.js",
-    "static/js/2.c8e580ed.chunk.js",
+    "static/js/2.b390c530.chunk.js",
     "static/css/main.87f0540f.chunk.css",
-    "static/js/main.88a46309.chunk.js"
+    "static/js/main.861814bd.chunk.js"
   ]
 }
