@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import { Fetch } from './components/Fetch';
 import { Hooks } from './components/Hooks';
 import { LinksRouter } from './components/LinksRouter';
